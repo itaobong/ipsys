@@ -1,4 +1,4 @@
-# Intelligent Document Processing System
+# Intelligent Document Processing System - Ipsys
 
 Welcome to the Intelligent Document Processing System project! This system is designed to automate the extraction of valuable information from various document types, including PDFs, Word documents, and images. The goal is to provide a robust solution for handling unstructured data efficiently.
 
