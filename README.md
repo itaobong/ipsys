@@ -47,6 +47,19 @@ To enhance scalability, consider deploying the system on cloud platforms such as
 
 Ensure that the system adheres to industry security standards and complies with data protection regulations. Implement encryption for data in transit and at rest, and conduct regular security audits.
 
+## Evaluation Criteria
+ - Technical Excellence: Does the solution effectively extract and process information from diverse document types?
+ - Robustness: How well does the system handle variations in document formatting and layout?
+ - Scalability: Is the system designed to handle a large volume of documents efficiently?
+ - User Interface: How user-friendly is the interface for uploading documents and validating information?
+ - Innovation: Does the project showcase creative solutions to document processing challenges?
+
+## Submission Guidelines
+
+- Create a public GitHub repository for the project.
+- Include a detailed README.md with instructions, project structure, and any additional information.
+- Use Git for version control, and make frequent, meaningful commits.
+
 ## Contributing
 
 We welcome contributions! Feel free to fork the repository, create a new branch, and submit a pull request with your enhancements or fixes.
