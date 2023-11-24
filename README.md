@@ -6,6 +6,8 @@ Welcome to the Intelligent Document Processing System project! This system is de
 - [Key Features](#key-features)
 - [Scalability Considerations](#scalability-considerations)
 - [Security and Compliance](#security-and-compliance)
+- [Evaluation Criteria](#evaluation-criteria)
+- [Submission Guidelines](#submission-guidelines)
 - [Contributing](#contributing)
 - [License](#license)
 
